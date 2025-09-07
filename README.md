@@ -27,7 +27,7 @@ node nome_do_arquivo.js
 
 Após a execução, o menu interativo será exibido no terminal, permitindo a utilização das funcionalidades do sistema.
 
-Funcionalidades
+Funcionalidades:
 O sistema apresenta um menu com as seguintes opções:
 
 1. Adicionar aluno
