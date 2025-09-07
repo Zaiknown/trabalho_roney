@@ -2,13 +2,13 @@ Aluno: Matheus Zaino Pinto Oliveira
 
 Professor(a): Rôney Reis 
 
-Gerenciador de Turma (CLI)
+Gerenciador de Turma (CLI):
 Este é um projeto desenvolvido para a disciplina de Introdução à Programação do curso Superior em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) - Campus Umirim.
 
-Descrição do Projeto
+Descrição do Projeto:
 O objetivo deste trabalho é implementar um programa em JavaScript que funcione como um gerenciador de turma via linha de comando (CLI). O sistema permite ao usuário, através de um menu interativo, gerenciar alunos e suas respectivas notas, com todos os dados sendo mantidos em memória durante a execução do programa.
 
-Como Executar
+Como Executar:
 Para executar este projeto, é necessário ter o Node.js instalado em sua máquina.
 
 Clone ou faça o download deste repositório.
